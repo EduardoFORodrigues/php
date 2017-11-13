@@ -7,4 +7,10 @@ echo "Meu primeiro contato com PHP";
 echo "PHP";
 
 
+echo "olá teste";
+
+echo "add outro teste";
+
+
+
 ?>
